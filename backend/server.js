@@ -23,7 +23,7 @@ app.use(cors({
   origin: [
     'http://localhost:5173',
     'http://localhost:5174',
-    'https://your-frontend-url.vercel.app',
+    'https://medibook-xi-one.vercel.app',
     'https://your-admin-url.vercel.app'
   ],
   credentials: true
