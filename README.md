@@ -25,7 +25,9 @@
 ## 📸 Screenshots
 
 ### 🏠 Homepage
-![Homepage](https://via.placeholder.com/800x400?text=Homepage+Screenshot)
+<img width="1917" height="848" alt="image" src="https://github.com/user-attachments/assets/96300fa4-ca80-4a46-a438-2433c8452579" />
+
+![Homepage](https://via.placeholder.com/800x400?text=Homepage+Screensho<img width="1917" height="848" alt="image" src="https://github.com/user-attachments/assets/96300fa4-ca80-4a46-a438-2433c8452579" />)
 
 ### 👨‍⚕️ All Doctors
 ![Doctors](https://via.placeholder.com/800x400?text=Doctors+List+Screenshot)
