@@ -28,16 +28,16 @@
 <img width="1917" height="848" alt="image" src="https://github.com/user-attachments/assets/96300fa4-ca80-4a46-a438-2433c8452579" />
 
 ### 👨‍⚕️ All Doctors
-![Doctors](https://via.placeholder.com/800x400?text=Doctors+List+Screenshot)
+<img width="1907" height="862" alt="image" src="https://github.com/user-attachments/assets/c3628952-5c01-4055-8f48-5721fa10b9ed" />
 
 ### 📅 Appointment Booking
-![Appointment](https://via.placeholder.com/800x400?text=Appointment+Booking+Screenshot)
+<img width="1913" height="866" alt="image" src="https://github.com/user-attachments/assets/e46baac2-dd1a-42a8-9286-d7074ca6e71c" />
 
 ### 🔐 Admin Panel
-![Admin Panel](https://via.placeholder.com/800x400?text=Admin+Panel+Screenshot)
+<img width="1906" height="860" alt="image" src="https://github.com/user-attachments/assets/32da80a5-e820-4486-9935-6020663a9f3e" />
 
 ### 📊 Admin Dashboard
-![Dashboard](https://via.placeholder.com/800x400?text=Admin+Dashboard+Screenshot)
+<img width="1911" height="866" alt="image" src="https://github.com/user-attachments/assets/afd37706-659e-48d5-a27f-c7d446e08991" />
 
 ---
 
